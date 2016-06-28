@@ -1,0 +1,1 @@
+double CalculateCubic(double d);
